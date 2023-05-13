@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="4dp"
+    android:padding="4dp"
+    android:background="@drawable/item_chat_left_bg"
+    android:gravity="end">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Salut chef"
+        android:textColor="@color/black"
+        android:textSize="22dp"
+        android:id="@+id/txt_msg"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="12:04"
+        android:textSize="16dp"
+        android:id="@+id/txt_hour"
+        />
+
+</LinearLayout>

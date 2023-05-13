@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369224725834",
+    "project_id": "kotlin-chat-app-199a9",
+    "storage_bucket": "kotlin-chat-app-199a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369224725834:android:0d0f5a80673538653a3db3",
+        "android_client_info": {
+          "package_name": "com.ivan.work.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369224725834-hse27q6hes1lj9354mfgq9aut517ee8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC399PI8MvF9HHfsCXCuuKoWuKwYabRbHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369224725834-hse27q6hes1lj9354mfgq9aut517ee8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
